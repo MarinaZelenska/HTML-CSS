@@ -1,0 +1,127 @@
+.header{
+	text-align:center;
+	width:100%;	
+}
+.paragraf{
+	text-align:right;
+	
+}
+.main{
+	height:86%;
+	width:100%;
+	float:center;
+	background-color:#eee;
+    border: 4px double gray;
+   
+}
+
+.rightcolumn{
+	height:85%;
+	width:400px;
+	float:right;
+	
+}
+
+.im-style{
+	height:790px;
+	width:400px;
+	float:left;
+	border: 4px double gray;
+}
+.underimage{
+	position:absolute;
+    margin:5px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+}
+
+.leftcolumn{
+
+	height:85%;
+	width:400px;
+	float:left;
+}
+
+.formstyle{
+	background-color:gray;
+	height:20%;
+	width:50%;
+	float:left;
+	margin-left:2%;
+}
+
+.tablestyle{
+	width:50%; 
+	float:left;
+	margin-top:2%;
+	margin-left:2%;
+	border-spacing: 5px;
+		
+}
+
+
+.trstyle{
+	text-align:center;
+	
+	
+	
+	
+}
+.tdstyle{
+	border-bottom: 1px solid black;
+	
+}
+
+.fstyle{
+	margin:2%;
+	float:center;
+}
+
+
+
+div{
+	position:relative;
+}
+
+div.field {
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  padding-bottom: 5px;
+}
+div.field label {
+  float: left;
+  width: 70px;
+  height: 15px;
+}
+
+.footer{
+	background-color:#ffffff;
+	clear:both;
+	
+	
+}
+
+.area{
+	width:600px;
+	height:20;
+	
+    
+}
+.area2{
+	width:850px;
+	height:20;
+	
+    
+}
+
+.sf{
+	background-color:#c0c0c0;
+	height:120; 
+	width:50%; 
+	float:left;
+	margin-top:2%;
+	margin-left:2%;
+	border: 4px double gray;
+}
